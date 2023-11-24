@@ -1,9 +1,8 @@
-# Analise de Requisitos - NotesThink
+# Análise de Requisitos - NotesThink
 
+Este repositório contém os artefatos e documentos relacionados à Análise de Requisitos de Software do Projeto "NotesThink: E-Commerce de Cadernos Inteligentes e Personalizados". Este documento foi criado por um grupo de 3 pessoas com intuito de aprendizado e objetivo principal para a disciplina de Engenharia de Requisitos do curso Bacharelado de Sistemas de Informação pela Universidade Estadual do Tocantins - UNITINS, mas também para auxiliar no desenvolvimento do projeto que está sendo implementado por um de seus idealizadores e sua parceira para a disciplina de Tópicos em Programação I.
 
-Este repositório contém os artefatos e documentos relacionados à Análise de Requisitos de Software do projeto NotesThink. O objetivo deste projeto é identificar, documentar e analisar os requisitos funcionais e não funcionais para o desenvolvimento do sistema NotesThink.
-
-## Conteudo
+## Conteúdo
 
 - **/Documentos:** Contém os documentos principais da análise de requisitos em formato PDF.
 - **/Diagramas:** Diretório com diagramas UML ou outros esquemas visuais relacionados aos requisitos.
@@ -16,9 +15,9 @@ Este repositório contém os artefatos e documentos relacionados à Análise de 
 - `Termo de Encerramento de Projeto`:  Documento que resume os principais resultados alcançados, lições aprendidas, o encerramento formal das atividades e a entrega final do projeto, garantindo o encerramento organizado e documentado das atividades do projeto.
 - `README.md`: Este arquivo, fornecendo informações sobre o conteúdo e o propósito do repositório.
 
-## Como Utilizar
+## Como Visualizar
 
-Os documentos disponibilizados neste repositório oferecem uma visão detalhada dos requisitos identificados para o sistema NotesThink. Para utilizar este material:
+Os documentos disponibilizados neste repositório oferecem uma visão detalhada dos requisitos identificados para o sistema NotesThink. Para visualizar este material:
 
 1. Baixe o documento ou visualize-o diretamente no GitHub.
 2. Analise os requisitos funcionais e não funcionais para compreender o escopo do sistema.
