@@ -34,6 +34,6 @@ Os documentos disponibilizados neste repositório oferecem uma visão detalhada 
 
 ## Autores
 
-- [André Barreira de Castro](link_perfil_a)
+- [André Barreira de Castro](https://github.com/ghoul678)
 - [Frederico Gomes Wetmann](https://github.com/10846-8)
 - [Guilherme Rio Belo Correia Pereira](https://github.com/GuilhermeRioBel02)
