@@ -18,7 +18,7 @@ Este repositório contém os artefatos e documentos relacionados à Análise de 
 ## Estrutura do Projeto
 
 - `Termo de Abertura de Projeto (TAP)`: Documento que estabelece de forma resumida os objetivos, escopo, stakeholders, recursos iniciais e principais expectativas de um projeto.
-- `Análise - Requisitos - NotesThink`: Documento principal com a análise detalhada dos requisitos do projeto.
+- `Análise de Requisitos - NotesThink`: Documento principal com a análise detalhada dos requisitos do projeto.
 - `Termo de Encerramento de Projeto (TEP)`:  Documento que resume os principais resultados alcançados, lições aprendidas, o encerramento formal das atividades e a entrega final do projeto, garantindo o encerramento organizado e documentado das atividades do projeto.
 - `README.md`: Este arquivo, fornecendo informações sobre o conteúdo e o propósito do repositório.
 
