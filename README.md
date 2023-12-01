@@ -30,7 +30,7 @@ Os documentos disponibilizados neste repositório oferecem uma visão detalhada 
 2. Analise os requisitos funcionais e não funcionais para compreender o escopo do sistema.
 3. Utilize os diagramas fornecidos para ter uma visão mais clara da estrutura e interações do sistema.
 
-- **Observação:**  Os links para os Termos de Abertura e Encerramento de Projeto (TAP e TEP) também encontram-se dentro do documento `Análise - Requisitos - NotesThink`
+- **Observação:**  Os links para os Termos de Abertura e Encerramento de Projeto (TAP e TEP) também encontram-se dentro do documento `Análise de Requisitos - NotesThink`
 
 ## Autores
 
